@@ -1,0 +1,2464 @@
+=== PAGINA PDF 1 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 1 de 18
+INSTITUCIÓN EDUCATIVA PROMOCIÓN 
+SOCIAL
+Neiva - Huila
+PROGRAMACIÓN CURRICULAR
+ÁREA DE TECNOLOGÍA E INFORMÁTICA
+Grados 6° a 11°
+TEMAS Y CONTENIDOS INTEGRADOS
+AÑO LECTIVO 2026
+
+=== PAGINA PDF 2 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 2 de 18
+C, P, A = Contenidos Conceptuales, Procedimentales y Actitudinales
+Sigla Tipo Descripción Pregunta clave
+C Conceptuales El SABER — Conocimientos teóricos, conceptos, 
+hechos, datos, principios, teorías
+¿Qué debe conocer el 
+estudiante?
+P Procedimentales El SABER HACER — Habilidades, técnicas, 
+procedimientos, destrezas, métodos
+¿Qué debe saber hacer el 
+estudiante?
+A Actitudinales El SABER SER — Valores, actitudes, normas, 
+disposiciones, ética
+¿Cómo debe comportarse el 
+estudiante?
+Ejemplo aplicado (Grado 8, Período 4):
+Tipo Contenido
+C (Conceptual) Algoritmos, lógica booleana, Scratch avanzado, introducción a Python
+P (Procedimental) Diseño de programas, resolución de problemas
+A (Actitudinal) Conciencia ética y responsabilidad en la innovación
+Fundamento teórico
+Esta clasificación proviene de la taxonomía de César Coll (psicólogo educativo español), adoptada 
+ampliamente en Colombia por el MEN para garantizar una formación integral que no solo transmita 
+conocimientos, sino que también desarrolle habilidades prácticas y forme en valores.
+
+=== PAGINA PDF 3 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 3 de 18
+GRADO SEXTO (6°)
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+1 Tecnología 
+y sociedad: 
+evolución e 
+impacto
+Reconoce la 
+tecnología 
+como 
+construcción 
+social que 
+satisface 
+necesidades 
+humanas y 
+transforma el 
+entorno.
+Analiza el 
+papel de la 
+tecnología 
+en 
+contextos 
+históricos y 
+culturales.
+• Identifica 
+artefactos 
+tecnológicos 
+y los 
+clasifica. • 
+Reconoce la 
+relación 
+sociedad–
+ambiente–
+tecnología.
+TEMAS: 1. 
+Normas de 
+sala de 
+informática. 2. 
+Conceptos: 
+ciencia, 
+técnica, 
+tecnología e 
+informática. 3. 
+Historia y 
+evolución 
+tecnológica. 4. 
+Clasificación 
+de artefactos. 
+5. Impacto 
+social y 
+ambiental. 6. 
+Responsabilid
+ad ética. ---
+CONTENIDO
+S SABER 
+GLOBAL: C:
+Historia y 
+evolución de 
+la tecnología, 
+artefactos. P: 
+Clasificación 
+de artefactos, 
+análisis de su 
+uso. A: 
+Valoración 
+crítica del 
+impacto 
+social.
+Línea de 
+tiempo de 
+inventos. 
+Juego de 
+clasificación 
+de objetos. 
+Conversatorio 
+sobre impacto 
+ambiental.
+Lista de 
+cotejo. 
+Rúbrica de 
+análisis 
+histórico. 
+Taller gráfico 
+de evolución.
+DEMOCRACIA: 
+Participación 
+democrática.
+2 El ciclo 
+tecnológico 
+y la 
+solución de 
+problemas
+Aplica el ciclo 
+tecnológico en 
+proyectos 
+escolares 
+sencillos.
+Aplica 
+fases del 
+ciclo 
+tecnológico 
+en la 
+solución de 
+problemas.
+• Reconoce 
+las fases del 
+ciclo 
+tecnológico. • 
+Diseña 
+esquemas y 
+prototipos 
+básicos.
+TEMAS: 1. 
+Tecnología en 
+hogar, colegio 
+y comunidad. 
+2. Hardware y 
+software. 3. 
+Windows: 
+escritorio y 
+explorador. 4. 
+Archivos y 
+carpetas. 5. 
+Google Drive 
+básico. 6. 
+Ciclo 
+tecnológico: 
+problema, 
+diseño y 
+solución. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Fases del 
+ciclo 
+tecnológico. P: 
+Diseño de 
+prototipos, 
+diagramas de 
+flujo. A: 
+Creatividad y 
+trabajo en 
+equipo.
+Construcción 
+de prototipo 
+sencillo. Dibujo 
+técnico básico. 
+Juego de roles 
+(diseñador, 
+constructor, 
+evaluador).
+Lista de 
+cotejo de 
+prototipo. 
+Rúbrica de 
+trabajo 
+colaborativo. 
+Informe de 
+proceso.
+TIEMPO LIBRE: 
+Cultura de género.
+
+=== PAGINA PDF 4 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 4 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+3 Herramient
+as digitales 
+y 
+comunicaci
+ón
+Usa 
+aplicaciones 
+básicas para 
+producir y 
+comunicar 
+información de 
+manera 
+responsable.
+Utiliza TIC 
+para crear 
+y compartir 
+contenido.
+• Utiliza 
+procesadore
+s de texto y 
+presentacion
+es. • 
+Reconoce la 
+importancia 
+del uso 
+responsable 
+de internet.
+TEMAS: 1. 
+Proceso 
+tecnológico: 
+fases. 2. 
+Herramientas 
+según oficios. 
+3. Teclado: 
+posición y 
+técnica. 4. 
+Procesador de 
+texto: formato 
+básico. 5. 
+Creación de 
+documentos. 
+6. Internet 
+seguro. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Procesadores 
+de texto, 
+presentacione
+s, internet 
+básico. P: 
+Creación de 
+documentos y 
+presentacione
+s. A: Respeto 
+y seguridad en 
+el uso de TIC.
+Elaboración de 
+cartel digital. 
+Búsqueda 
+guiada en 
+internet. 
+Presentación 
+digital grupal.
+Lista de 
+cotejo de uso 
+de 
+herramientas. 
+Rúbrica de 
+trabajo en 
+grupo. Taller 
+digital.
+PESCC: Proyecto 
+de vida.
+4 Pensamient
+o 
+computacio
+nal e 
+innovación
+Diseña 
+soluciones 
+tecnológicas 
+sencillas y 
+reflexiona 
+sobre el 
+impacto social 
+y ambiental.
+Desarrolla 
+proyectos 
+que 
+integran 
+diseño y 
+uso 
+responsabl
+e de la 
+tecnología.
+• Diseña 
+algoritmos 
+básicos. • 
+Aplica 
+programació
+n visual 
+(Scratch, 
+Code.org). • 
+Reconoce la 
+importancia 
+de la 
+ciudadanía 
+digital.
+TEMAS: 1. 
+Seguridad 
+laboral. 2. 
+Virus: tipos, 
+contagio y 
+antivirus. 3. 
+Paint: 
+herramientas 
+y diseño. 4. 
+Algoritmos 
+cotidianos. 5. 
+Scratch/Code.
+org básico. 6. 
+Ética digital y 
+creatividad. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Algoritmos, 
+programación 
+por bloques,
+impacto 
+ambiental. P: 
+Prototipos y 
+secuencias 
+lógicas. A: 
+Conciencia 
+ambiental y 
+ética digital.
+Construcción 
+de prototipo 
+con material 
+reciclado. 
+Debate: 'Lo 
+bueno y lo 
+malo de la 
+tecnología'. 
+Programación 
+por bloques.
+Lista de 
+cotejo de 
+prototipo. 
+Rúbrica de 
+debate. 
+Informe 
+escrito.
+PRAE: Ambiente.
+
+=== PAGINA PDF 5 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 5 de 18
+GRADO SÉPTIMO (7°)
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSAL
+ES
+1 Tecnología, 
+sociedad y 
+cultura
+Analiza el 
+impacto de la 
+tecnología en la 
+vida social, 
+cultural y 
+ambiental.
+Comprende 
+la relación 
+entre 
+ciencia, 
+tecnología 
+y sociedad.
+• Reconoce 
+la influencia 
+de la 
+tecnología 
+en la vida 
+diaria. • 
+Explica la 
+relación 
+entre 
+tecnología, 
+sociedad y 
+ambiente.
+TEMAS: 1. 
+Tecnología 
+agrícola: 
+evolución. 2. 
+Herramientas 
+y máquinas 
+del campo. 3. 
+Revolución 
+verde. 4. 
+Tipos de 
+agricultura y 
+artesanías. 5. 
+Sistema 
+operativo: 
+software y 
+explorador. 6. 
+Impacto 
+cultural de la 
+tecnología. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Evolución de 
+inventos y 
+máquinas, 
+impacto 
+cultural. P: 
+Análisis de 
+casos, 
+debates. A: 
+Reflexión 
+crítica sobre 
+la innovación.
+Línea de 
+tiempo de 
+inventos. 
+Debate sobre 
+avances 
+tecnológicos. 
+Foro sobre 
+impacto 
+ambiental.
+Lista de 
+cotejo de 
+participación. 
+Rúbrica de 
+debate. 
+Informe 
+escrito.
+DEMOCRACIA: 
+Participación 
+democrática.
+2 Procesos y 
+sistemas 
+tecnológico
+s
+Aplica el ciclo 
+tecnológico en 
+proyectos de 
+complejidad 
+media.
+Desarrolla 
+proyectos 
+tecnológico
+s usando el 
+ciclo 
+completo.
+• Identifica 
+fases del 
+ciclo 
+tecnológico. • 
+Diseña y 
+construye 
+prototipos 
+escolares.
+TEMAS: 1. 
+Medios de 
+transporte: 
+terrestre, 
+aéreo y 
+marítimo. 2. 
+Evolución del 
+transporte. 3. 
+Máquinas 
+simples y 
+compuestas. 
+4. Word: 
+ventana y 
+herramientas. 
+5. Edición de 
+documentos. 
+6. Proyectos 
+tecnológicos. 
+---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Ciclo 
+tecnológico, 
+máquinas 
+simples y 
+compuestas. 
+P: 
+Construcción 
+de prototipos, 
+diagramas 
+técnicos. A: 
+Creatividad y 
+Elaboración de 
+prototipo 
+escolar. 
+Diseño de 
+planos. Juego 
+de roles en 
+equipos.
+Lista de 
+cotejo de 
+prototipo. 
+Rúbrica de 
+proyecto. 
+Informe de 
+proceso.
+TIEMPO LIBRE: 
+Cultura de género.
+
+=== PAGINA PDF 6 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 6 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSAL
+ES
+trabajo 
+colaborativo.
+3 Herramient
+as digitales 
+y 
+comunicaci
+ón
+Usa 
+herramientas 
+digitales para 
+procesar, 
+comunicar y 
+almacenar 
+información con 
+responsabilidad
+.
+Utiliza TIC 
+de manera 
+ética y 
+segura en 
+distintos 
+contextos.
+• Maneja 
+procesadore
+s, hojas de 
+cálculo y 
+presentacion
+es. • Aplica 
+normas de 
+ciudadanía 
+digital y 
+seguridad en 
+línea.
+TEMAS: 1. 
+Medios de 
+comunicación
+: tipos e 
+impacto. 2. 
+Mecanografía
+: posición y 
+velocidad. 3. 
+Excel básico: 
+celdas y 
+formato. 4. 
+PowerPoint: 
+diapositivas. 
+5. Seguridad 
+en línea. 6. 
+Ciudadanía 
+digital. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Procesadores 
+de texto, 
+Excel básico, 
+presentacione
+s. P: Creación 
+de 
+documentos, 
+gráficos y 
+presentacione
+s. A: 
+Responsabilid
+ad digital y 
+ética en el 
+uso de TIC.
+Elaboración de 
+informe digital. 
+Búsqueda 
+avanzada en 
+internet. 
+Creación de 
+tabla o gráfico 
+en Excel.
+Lista de 
+cotejo de uso 
+de TIC. 
+Rúbrica de 
+trabajo digital. 
+Taller práctico 
+en software.
+PESCC: Proyecto 
+de vida.
+4 Pensamient
+o 
+computacio
+nal e 
+innovación
+Diseña 
+algoritmos con 
+decisiones 
+simples y 
+desarrolla 
+proyectos 
+innovadores 
+aplicando 
+programación 
+básica.
+Desarrolla 
+proyectos 
+tecnológico
+s con 
+enfoque en 
+innovación 
+y ética 
+digital.
+• Construye 
+algoritmos 
+con 
+condicionale
+s y 
+repeticiones. 
+• Programa 
+en entornos 
+visuales 
+(Scratch, 
+Code.org). • 
+Reflexiona 
+sobre el 
+impacto de la 
+innovación.
+TEMAS: 1. 
+Energía: 
+clases y 
+fuentes. 2. 
+Ahorro 
+energético. 3. 
+PowerPoint: 
+animaciones 
+y 
+transiciones. 
+4. 
+Presentacion
+es 
+multimedia. 5. 
+Scratch: 
+condicionales 
+y bucles. 6. 
+Innovación 
+responsable. -
+--
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Algoritmos, 
+lógica 
+booleana, 
+programación 
+por bloques. 
+P: Diseño de 
+programas 
+con 
+condiciones y 
+Programación 
+en Scratch con 
+condicionales. 
+Debate sobre 
+la innovación 
+responsable. 
+Proyecto de 
+solución a un 
+problema del 
+entorno.
+Lista de 
+cotejo de 
+programas. 
+Rúbrica de 
+proyecto 
+innovador. 
+Informe 
+reflexivo.
+PRAE: Ambiente.
+
+=== PAGINA PDF 7 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 7 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSAL
+ES
+ciclos. A: 
+Conciencia 
+ética y 
+ambiental en 
+la innovación.
+
+=== PAGINA PDF 8 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 8 de 18
+GRADO OCTAVO (8°)
+PERÍO
+DO
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENIDO
+S
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+1 Tecnología, 
+globalizació
+n y 
+sostenibilid
+ad
+Analiza el 
+papel de la 
+tecnología en 
+la globalización 
+y sus efectos 
+ambientales y 
+sociales.
+Comprend
+e cómo la 
+tecnología 
+influye en 
+contextos 
+locales y 
+globales.
+• Explica el 
+impacto de la 
+tecnología en 
+la sociedad y 
+el ambiente. • 
+Reconoce 
+tecnologías 
+emergentes y 
+sus 
+riesgos/benefic
+ios.
+TEMAS: 1. 
+Energía 
+eléctrica: 
+corriente y 
+magnetismo. 
+2. 
+Electrodomésti
+cos y motores. 
+3. 
+Globalización 
+y 
+sostenibilidad. 
+4. Riesgos de 
+tecnologías 
+emergentes. 5. 
+Word: 
+documentos 
+profesionales. 
+6. Análisis 
+crítico 
+tecnológico. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Globalización, 
+sostenibilidad, 
+tecnologías 
+emergentes. 
+P: Análisis de 
+casos, 
+comparacione
+s. A: 
+Conciencia 
+ética y 
+ambiental.
+Estudio de 
+casos 
+(tecnología y 
+ambiente). 
+Mapa 
+conceptual 
+sobre 
+globalización. 
+Debate sobre 
+dilemas 
+tecnológicos.
+Lista de 
+cotejo de 
+participación. 
+Rúbrica de 
+debate. 
+Informe 
+reflexivo.
+DEMOCRACIA: 
+Participación 
+democrática.
+2 Procesos y 
+sistemas 
+tecnológico
+s
+Aplica el ciclo 
+tecnológico 
+para diseñar y 
+construir 
+prototipos 
+funcionales.
+Desarrolla 
+proyectos 
+tecnológico
+s usando el 
+ciclo 
+completo y 
+sistemas 
+de control.
+• Diseña 
+prototipos 
+funcionales. • 
+Identifica 
+sistemas de 
+control y 
+retroalimentaci
+ón.
+TEMAS: 1. 
+Empresa: 
+clasificación y 
+funciones. 2. 
+Creatividad 
+empresarial. 3. 
+Sistema: 
+hardware, 
+software y 
+desechos. 4. 
+Word: estilos, 
+índices y tabla 
+de contenido. 
+5. Prototipos 
+con control. 6. 
+Trabajo 
+colaborativo 
+en la nube. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Ciclo 
+tecnológico, 
+sistemas 
+técnicos, 
+procesos 
+productivos. P: 
+Diseño, 
+prototipos, 
+esquemas. A: 
+Creatividad y 
+Construcción 
+de prototipo 
+escolar. 
+Diseño de 
+planos 
+técnicos. 
+Simulación de 
+procesos de 
+control.
+Lista de 
+cotejo de 
+prototipo. 
+Rúbrica de 
+proyecto. 
+Informe de 
+construcción.
+TIEMPO LIBRE: 
+Cultura de 
+género.
+
+=== PAGINA PDF 9 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 9 de 18
+PERÍO
+DO
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENIDO
+S
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+trabajo en 
+equipo.
+3 Herramient
+as digitales 
+avanzadas 
+y seguridad
+Usa 
+herramientas 
+TIC avanzadas 
+para procesar, 
+comunicar y 
+colaborar en 
+entornos 
+virtuales.
+Utiliza TIC 
+de manera 
+ética, 
+segura y 
+eficiente en 
+diferentes 
+contextos.
+• Maneja 
+procesadores 
+de texto, hojas 
+de cálculo y 
+presentaciones 
+intermedias. • 
+Utiliza 
+plataformas en 
+la nube de 
+forma 
+colaborativa. • 
+Reconoce 
+derechos 
+digitales y 
+seguridad 
+informática.
+TEMAS: 1. 
+Excel: 
+fórmulas y 
+funciones. 2. 
+Gráficos y 
+datos. 3. 
+Formato: 
+imágenes, 
+columnas, 
+tablas y 
+WordArt. 4. 
+Diseño 
+profesional. 5. 
+Cibersegurida
+d. 6. Scratch: 
+bucles y 
+variables. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+TIC 
+avanzadas, 
+Excel 
+intermedio, 
+edición
+multimedia. P: 
+Creación de 
+documentos, 
+gráficos, 
+presentacione
+s. A: 
+Responsabilid
+ad digital y 
+ética en redes.
+Creación de 
+informes en la 
+nube. Gráficos 
+en Excel. 
+Edición de 
+imagen/video 
+básico.
+Lista de 
+cotejo de uso 
+de TIC. 
+Rúbrica de 
+trabajo 
+colaborativo. 
+Taller 
+práctico 
+digital.
+PESCC: Proyecto 
+de vida.
+4 Pensamient
+o 
+computacio
+nal y 
+programaci
+ón
+Diseña 
+algoritmos 
+complejos y 
+desarrolla 
+programas en 
+entornos 
+visuales y 
+textuales.
+Aplica 
+programaci
+ón en 
+proyectos 
+escolares 
+con 
+innovación 
+y ética 
+digital.
+• Construye 
+algoritmos con 
+ciclos y 
+condicionales 
+anidados. • 
+Programa en 
+Scratch y 
+Python básico. 
+• Argumenta 
+sobre la ética 
+en la 
+innovación 
+tecnológica.
+TEMAS: 1. 
+Documentos 
+integrados. 2. 
+Proyecto de 
+investigación. 
+3. Impacto 
+cultural 
+tecnológico. 4. 
+Resolución de 
+problemas 
+técnicos. 5. 
+Algoritmos y 
+programación 
+estructurada. 
+6. Evaluación 
+de soluciones. 
+---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Algoritmos, 
+lógica 
+booleana, 
+Scratch 
+avanzado, 
+introducción a 
+Python. P: 
+Diseño de 
+programas, 
+resolución de 
+problemas. A: 
+Conciencia 
+Programación 
+en Scratch 
+con ciclos y 
+condicionales. 
+Introducción a 
+Python 
+(ejercicios 
+básicos). 
+Proyecto de 
+innovación 
+tecnológica.
+Lista de 
+cotejo de 
+programas. 
+Rúbrica de 
+proyecto 
+innovador. 
+Informe de 
+programación
+.
+PRAE: Ambiente.
+
+=== PAGINA PDF 10 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 10 de 18
+PERÍO
+DO
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENIDO
+S
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+ética y 
+responsabilida
+d en la 
+innovación.
+
+=== PAGINA PDF 11 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 11 de 18
+GRADO NOVENO (9°)
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+1 Tecnología, 
+ética y 
+sociedad
+Analiza 
+dilemas éticos 
+y sociales 
+generados por 
+la tecnología.
+Reconoce 
+la relación 
+entre 
+ciencia, 
+tecnología, 
+sociedad y 
+ambiente.
+• Explica 
+dilemas éticos 
+de la 
+innovación. • 
+Reflexiona 
+sobre el 
+impacto social 
+y ambiental de 
+la tecnología.
+TEMAS: 1. 
+Energía: 
+solar, eólica, 
+hidráulica y 
+geotérmica. 
+2. 
+Conservación 
+energética. 3. 
+Excel: 
+AutoSuma y 
+protección. 4. 
+PowerPoint: 
+multimedia. 5. 
+Redes: tipos, 
+IP y 
+protocolos. 6. 
+Dilemas 
+éticos de IA y 
+biotecnología. 
+---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Ética digital, 
+dilemas 
+tecnológicos, 
+impacto 
+ambiental. P: 
+Análisis de 
+casos, 
+debates. A: 
+Responsabili
+dad y
+pensamiento 
+crítico.
+Estudio de 
+casos (IA, 
+biotecnología, 
+redes 
+sociales). 
+Debate sobre 
+ética digital. 
+Ensayo crítico.
+Lista de 
+cotejo de 
+participación. 
+Rúbrica de 
+debate. 
+Ensayo 
+reflexivo.
+DEMOCRACIA: 
+Participación 
+democrática.
+2 Procesos 
+tecnológico
+s 
+avanzados
+Diseña 
+prototipos 
+funcionales 
+integrando 
+sistemas de 
+control.
+Aplica el 
+ciclo 
+tecnológico 
+en la 
+solución de 
+problemas 
+complejos.
+• Diseña y 
+construye 
+prototipos con 
+retroalimentaci
+ón. • Identifica 
+sistemas 
+técnicos 
+avanzados.
+TEMAS: 1. 
+Empresa: 
+clasificación y 
+documentos. 
+2. Excel: 
+formato e 
+impresión. 3. 
+Operadores 
+mecánicos y 
+eléctricos. 4. 
+Ley de Ohm y 
+circuitos. 5. 
+PowerPoint 
+avanzado y 
+Loom. 6. 
+STEAM: 
+Microbit. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Ciclo 
+tecnológico 
+avanzado, 
+sistemas de 
+control, 
+procesos 
+productivos. 
+P: Prototipos, 
+planos 
+técnicos, 
+simulaciones. 
+Construcción 
+de prototipo 
+con sensores 
+simulados. 
+Diseño de 
+planos 
+técnicos. 
+Simulación de 
+procesos de 
+control.
+Lista de 
+cotejo de 
+prototipo. 
+Rúbrica de 
+proyecto. 
+Informe de 
+construcción.
+TIEMPO LIBRE: 
+Cultura de género.
+
+=== PAGINA PDF 12 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 12 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+A: 
+Creatividad, 
+innovación y 
+trabajo 
+colaborativo.
+3 TIC 
+avanzadas 
+y 
+cibersegurid
+ad
+Usa 
+herramientas 
+TIC avanzadas 
+y aplica 
+normas de 
+seguridad 
+digital.
+Utiliza TIC 
+para 
+producir, 
+comunicar 
+y proteger 
+información
+.
+• Colabora en 
+la nube en 
+proyectos 
+digitales. • 
+Aplica 
+medidas de 
+ciberseguridad 
+y reconoce 
+derechos 
+digitales.
+TEMAS: 1. 
+Estructura de 
+proyectos. 2. 
+Excel: 
+funciones 
+avanzadas y 
+gráficos. 3. 
+Tablas 
+dinámicas 
+básicas. 4. 
+Megaestructu
+ras y 
+tecnologías. 
+5. 
+Facturación y 
+nómina. 6. 
+Cibersegurida
+d y derechos 
+digitales. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Plataformas 
+colaborativas, 
+Excel 
+avanzado, 
+cibersegurida
+d. P: 
+Creación de 
+proyectos 
+digitales, 
+gráficos, 
+seguridad en 
+línea. A: Ética 
+digital y
+responsabilid
+ad.
+Trabajo 
+colaborativo 
+en la nube. 
+Creación de 
+gráficos 
+avanzados. 
+Taller de 
+ciberseguridad
+.
+Lista de 
+cotejo de uso 
+de TIC. 
+Rúbrica de 
+trabajo en 
+grupo. 
+Informe de 
+seguridad 
+digital.
+PESCC: Proyecto 
+de vida.
+4 Pensamient
+o 
+computacio
+nal y 
+programaci
+ón 
+estructurad
+a
+Diseña 
+algoritmos y 
+programas 
+estructurados 
+para resolver 
+problemas.
+Aplica el 
+pensamient
+o 
+computacio
+nal en la 
+solución de 
+problemas 
+del entorno.
+• Diseña 
+algoritmos con 
+ciclos y 
+condicionales. 
+• Desarrolla 
+programas en 
+Scratch 
+avanzado y 
+Python básico. 
+• Reflexiona 
+sobre 
+innovación 
+responsable.
+TEMAS: 1. 
+Impacto 
+ambiental de 
+sistemas 
+técnicos. 2. 
+Sistema 
+binario y 
+señales 
+digitales. 3. 
+Compuertas 
+lógicas. 4. 
+PowerPoint: 
+efectos 3D. 5. 
+Publisher: 
+boletines. 6. 
+Python: 
+variables y 
+condicionales
+. ---
+CONTENIDO
+S SABER 
+GLOBAL: C: 
+Algoritmos, 
+lógica 
+estructurada, 
+Scratch 
+Programación 
+en Scratch con 
+ciclos y 
+condicionales. 
+Ejercicios 
+básicos en 
+Python. 
+Proyecto de 
+innovación 
+tecnológica.
+Lista de 
+cotejo de 
+programas. 
+Rúbrica de 
+proyecto 
+innovador. 
+Informe de 
+programación
+.
+PRAE: Ambiente.
+
+=== PAGINA PDF 13 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 13 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁND
+AR MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+avanzado, 
+Python 
+básico. P: 
+Diseño de 
+programas, 
+proyectos de 
+software. A: 
+Conciencia 
+ética y 
+creatividad 
+tecnológica.
+
+=== PAGINA PDF 14 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 14 de 18
+GRADO DÉCIMO (10°)
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁNDA
+R MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+1 Tecnología, 
+innovación 
+y sociedad
+Analiza el 
+impacto de las 
+tecnologías 
+emergentes en 
+la vida 
+contemporánea
+.
+Comprende 
+la relación 
+entre 
+ciencia, 
+tecnología, 
+ética y 
+sociedad.
+• Identifica 
+tecnologías 
+emergentes 
+(IA, 
+biotecnologí
+a, robótica). 
+• Explica 
+ventajas, 
+riesgos y 
+dilemas 
+éticos 
+asociados.
+TEMAS: 1. 
+Tecnologías 
+emergentes: 
+IA, 
+biotecnología 
+y robótica. 2. 
+Sociedad 
+digital y 
+dilemas éticos. 
+3. Algoritmos: 
+definición y 
+propiedades. 
+4. Diagramas 
+de flujo y 
+pseudocódigo. 
+5. HTML: 
+estructura y 
+etiquetas 
+básicas. 6. 
+Responsabilid
+ad ética y 
+ciudadana. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Tecnologías 
+emergentes, 
+sociedad 
+digital, dilemas 
+éticos. P: 
+Análisis de 
+casos, 
+debates. A: 
+Responsabilid
+ad ética y 
+ciudadana.
+Estudio de 
+casos sobre IA 
+y 
+biotecnología. 
+Debate sobre 
+dilemas 
+tecnológicos. 
+Ensayo crítico.
+Lista de 
+cotejo de 
+participación. 
+Rúbrica de 
+debate. 
+Ensayo 
+reflexivo.
+DEMOCRACIA: 
+Participación 
+democrática.
+2 Proyectos 
+tecnológico
+s complejos
+Diseña y 
+construye 
+proyectos 
+tecnológicos 
+integrando 
+sistemas de 
+control y 
+automatización.
+Aplica el 
+ciclo 
+tecnológico 
+en 
+soluciones 
+de alto nivel 
+de 
+complejidad
+.
+• Diseña 
+prototipos 
+con 
+sistemas de 
+control 
+automatizad
+os. • Integra 
+simulacione
+s digitales 
+en sus 
+proyectos.
+TEMAS: 1. 
+Ciclo 
+tecnológico 
+avanzado. 2. 
+Control 
+automático y 
+retroalimentaci
+ón. 3. Planos 
+técnicos y 
+simulación. 4. 
+Páginas web: 
+navegación e 
+hipervínculos. 
+5. OVA/AVA: 
+diseño con 
+Cuadernia. 6. 
+App Inventor: 
+aplicaciones 
+básicas. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Ciclo 
+tecnológico 
+avanzado, 
+control 
+automático, 
+retroalimentaci
+ón. P: 
+Construcción 
+Construcción 
+de prototipo 
+con Arduino o 
+simulador. 
+Elaboración de 
+planos 
+técnicos. 
+Simulación 
+digital de 
+procesos 
+automatizados
+.
+Lista de 
+cotejo de 
+prototipos. 
+Rúbrica de 
+proyecto. 
+Informe 
+técnico.
+TIEMPO LIBRE: 
+Cultura de género.
+
+=== PAGINA PDF 15 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 15 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁNDA
+R MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+de prototipos, 
+planos 
+técnicos, 
+simulación. A: 
+Innovación, 
+creatividad y 
+trabajo en 
+equipo.
+3 TIC 
+avanzadas 
+y bases de 
+datos
+Usa 
+herramientas 
+TIC avanzadas 
+para organizar 
+y analizar 
+información de 
+manera crítica.
+Utiliza TIC 
+para 
+gestionar 
+información 
+y resolver 
+problemas 
+reales.
+• Maneja 
+hojas de 
+cálculo con 
+funciones y 
+bases de 
+datos 
+sencillas. • 
+Aplica 
+normas de 
+seguridad y 
+ética digital 
+en la gestión 
+de 
+información.
+TEMAS: 1. 
+Excel 
+avanzado: 
+funciones y 
+análisis. 2. 
+Bases de 
+datos: 
+conceptos y 
+diseño. 3. 
+Software 
+colaborativo. 
+4. Publisher: 
+folletos y 
+boletines. 5. 
+Contenido 
+multimedia. 6. 
+Ética en 
+manejo de 
+información. --
+-
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Excel 
+avanzado,
+bases de 
+datos, 
+software 
+colaborativo. 
+P: Gestión y 
+análisis de 
+datos. A: Ética 
+y 
+responsabilida
+d en el manejo 
+de 
+información.
+Creación de 
+base de datos 
+escolar. 
+Análisis de 
+datos en Excel 
+avanzado. 
+Taller de 
+seguridad 
+informática.
+Lista de 
+cotejo de uso 
+de TIC. 
+Rúbrica de 
+proyecto de 
+base de 
+datos. 
+Informe 
+digital.
+PESCC: Proyecto 
+de vida.
+4 Pensamient
+o 
+computacio
+nal 
+estructurad
+o
+Diseña 
+algoritmos 
+estructurados y 
+desarrolla 
+programas en 
+Python básico￾intermedio.
+Aplica el 
+pensamient
+o 
+computacio
+nal en la 
+solución de 
+problemas 
+complejos.
+• Construye 
+algoritmos 
+con 
+estructuras 
+secuenciale
+s, 
+condicionale
+s y 
+repetitivas. • 
+Desarrolla 
+programas 
+básicos en 
+Python. • 
+Argumenta 
+sobre el 
+impacto de 
+la 
+programació
+n en la 
+innovación.
+TEMAS: 1. 
+Algoritmos y 
+estructuras de 
+control. 2. 
+Python: 
+variables, 
+condicionales 
+y bucles. 3. 
+CmapTools: 
+mapas 
+conceptuales. 
+4. Canva: 
+presentacione
+s e infografías. 
+5. 
+Miniaplicacion
+es y software. 
+6. Creatividad, 
+innovación y 
+ética digital. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Programación 
+en Python 
+(condicionales, 
+bucles). 
+Desarrollo de 
+miniaplicacion
+es. Proyecto 
+de software 
+aplicado a la 
+comunidad.
+Lista de 
+cotejo de 
+programas. 
+Rúbrica de 
+miniaplicación
+. Informe de 
+proyecto.
+PRAE: Ambiente.
+
+=== PAGINA PDF 16 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 16 de 18
+PERÍOD
+O
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁNDA
+R MEN DBA
+TEMAS Y 
+CONTENID
+OS
+ESTRATEGI
+AS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+Algoritmos, 
+estructuras de 
+control, Python 
+básico￾intermedio. P: 
+Diseño de 
+programas, 
+resolución de 
+problemas. A: 
+Creatividad, 
+innovación y 
+ética digital.
+
+=== PAGINA PDF 17 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 17 de 18
+GRADO ONCE (11°)
+PERÍO
+DO
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁNDAR 
+MEN DBA
+TEMAS Y 
+CONTENIDO
+S
+ESTRATEG
+IAS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+1 Tecnología, 
+ética y 
+futuro
+Reflexiona 
+sobre los 
+impactos 
+éticos y 
+sociales de las 
+tecnologías 
+emergentes.
+Comprende la 
+relación entre 
+tecnología, 
+ciencia, ética 
+y sociedad.
+• Analiza 
+dilemas 
+éticos de la 
+IA, big data 
+y 
+biotecnologí
+a. • Evalúa 
+las 
+consecuenci
+as sociales 
+y 
+ambientales 
+de la 
+innovación.
+TEMAS: 1. 
+Tecnologías 
+emergentes y 
+ética digital. 2. 
+Impacto social y 
+ambiental. 3. 
+Clases de 
+empresas. 4. 
+Excel 
+empresarial: 
+nóminas y 
+presupuestos. 5. 
+Hojas de vida 
+profesionales. 6. 
+Procesos 
+productivos y 
+flujogramas. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Tecnologías 
+emergentes, 
+ética digital, 
+impacto social. 
+P: Análisis de 
+casos, debates. 
+A: 
+Responsabilidad 
+ética y 
+ciudadana.
+Estudio de 
+casos (IA, big 
+data, 
+biotecnología)
+. Debate 
+sobre ética y 
+futuro digital. 
+Ensayo 
+crítico.
+Lista de 
+cotejo de 
+participación. 
+Rúbrica de 
+debate. 
+Ensayo 
+reflexivo.
+DEMOCRACIA: 
+Participación 
+democrática.
+2 Proyectos 
+tecnológicos 
+de alto 
+impacto
+Diseña y 
+ejecuta 
+proyectos 
+tecnológicos 
+con enfoque 
+en innovación 
+y 
+sostenibilidad.
+Aplica el ciclo 
+tecnológico 
+en proyectos 
+interdisciplina
+rios.
+• Elabora 
+proyectos 
+escolares 
+con enfoque 
+en 
+sostenibilida
+d. • Integra 
+control 
+automatizad
+o en 
+prototipos.
+TEMAS: 1. Ciclo 
+tecnológico y 
+sostenibilidad. 2. 
+Automatización 
+y prototipos. 3. 
+GIMP: edición 
+de imágenes. 4. 
+Organización de 
+archivos y 
+backups. 5. 
+Audacity: 
+edición de 
+audio. 6. Edición 
+de video: 
+transiciones y 
+exportación. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Ciclo 
+tecnológico 
+avanzado, 
+automatización, 
+sostenibilidad. 
+P: Construcción 
+de prototipos 
+interdisciplinario
+s. A: Innovación, 
+trabajo en 
+equipo y 
+responsabilidad 
+ambiental.
+Prototipo con 
+Arduino o 
+sensores. 
+Diseño de 
+planos y 
+memoria 
+técnica. 
+Presentación 
+de prototipos 
+en feria 
+escolar.
+Lista de 
+cotejo de 
+prototipo. 
+Rúbrica de 
+proyecto. 
+Informe 
+técnico.
+TIEMPO LIBRE: 
+Cultura de 
+género.
+3 TIC, 
+emprendimi
+ento digital y 
+Usa TIC 
+avanzadas 
+para proyectos 
+Utiliza TIC 
+para 
+gestionar 
+• Diseña 
+propuestas 
+de 
+TEMAS: 1. TIC 
+avanzadas y 
+seguridad 
+Creación de 
+plan de 
+negocio 
+Lista de 
+cotejo de 
+uso de TIC. 
+PESCC: 
+Proyecto de vida.
+
+=== PAGINA PDF 18 ===
+INSTITUCIÓN EDUCATIVA PROMOCIÓN SOCIAL | PROGRAMACIÓN TECNOLOGÍA E INFORMÁTICA 2026
+Página 18 de 18
+PERÍO
+DO
+UNIDAD 
+TEMÁTIC
+A
+COMPETEN
+CIA
+ESTÁNDAR 
+MEN DBA
+TEMAS Y 
+CONTENIDO
+S
+ESTRATEG
+IAS Y 
+ACTIVIDAD
+ES
+EVALUACI
+ÓN (SIEE)
+PROYECTOS 
+TRANSVERSA
+LES
+cibersegurid
+ad
+de 
+emprendimient
+o y aplica 
+normas de 
+seguridad 
+digital.
+información y 
+proyectos de 
+impacto 
+social.
+emprendimi
+ento 
+tecnológico. 
+• Aplica 
+medidas de 
+cibersegurid
+ad en 
+proyectos 
+digitales. • 
+Usa TIC 
+para trabajo 
+colaborativo.
+digital. 2. 
+Access: tablas, 
+consultas, 
+formularios e 
+informes. 3. 
+AutoCAD: 
+entorno, vistas y 
+escalas. 4. 
+Visio: 
+diagramas. 5. 
+Mantenimiento 
+de 
+computadores. 
+6. Ética en 
+innovación. ---
+CONTENIDOS 
+SABER 
+GLOBAL: C: TIC 
+avanzadas, 
+bases de datos, 
+seguridad 
+digital. P: 
+Diseño de 
+proyectos de 
+emprendimiento 
+digital. A: 
+Responsabilidad 
+y ética en la 
+innovación.
+digital. 
+Análisis de 
+datos con 
+software 
+avanzado. 
+Taller de 
+seguridad 
+informática 
+aplicada.
+Rúbrica de 
+plan de 
+negocio. 
+Informe 
+digital.
+4 Pensamient
+o 
+computacion
+al avanzado 
+y software 
+aplicado
+Desarrolla 
+programas en 
+Python 
+intermedio y 
+proyectos 
+tecnológicos 
+de impacto 
+social.
+Aplica el 
+pensamiento 
+computaciona
+l en la 
+solución de 
+problemas 
+complejos.
+• Diseña 
+algoritmos 
+avanzados 
+con 
+estructuras 
+de datos. • 
+Desarrolla 
+programas 
+en Python 
+intermedio. • 
+Propone 
+proyectos 
+de software 
+aplicados a 
+problemas 
+reales.
+TEMAS: 1. 
+Python 
+intermedio: 
+listas, funciones 
+y diccionarios. 2. 
+HTML 
+avanzado: 
+imágenes, listas 
+y tablas. 3. 
+Diccionario 
+tecnológico en 
+web. 4. 
+Photoshop: 
+documentos y 
+diseño. 5. 
+Publisher/Cuade
+rnia: recursos 
+pedagógicos. 6. 
+Proyecto final de 
+software con 
+impacto social. -
+--
+CONTENIDOS 
+SABER 
+GLOBAL: C: 
+Algoritmos 
+avanzados, 
+estructuras de 
+datos, Python 
+intermedio. P: 
+Desarrollo de 
+programas, 
+proyectos de 
+software. A: 
+Creatividad, 
+innovación y 
+responsabilidad 
+social.
+Programación 
+en Python 
+(listas, 
+funciones, 
+diccionarios). 
+Desarrollo de 
+miniaplicacion
+es. Proyecto 
+final de 
+software para 
+la comunidad.
+Lista de 
+cotejo de 
+programas. 
+Rúbrica de 
+proyecto 
+final. 
+Sustentación 
+oral.
+PRAE: Ambiente.

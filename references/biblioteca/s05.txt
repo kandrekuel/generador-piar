@@ -1,0 +1,54 @@
+=== PAGINA PDF 1 ===
+Al igual que con Emprendimiento, tampoco existen Derechos Básicos de Aprendizaje 
+(DBA) oficiales para el área de Tecnología e Informática. [1, 2]
+El Ministerio de Educación Nacional de Colombia (MEN) regula esta asignatura a través de las 
+Orientaciones Curriculares para el Área de Tecnología e Informática. Estas orientaciones 
+estructuran los planes de estudio en el bachillerato mediante cuatro componentes 
+esenciales que van entrelazados con competencias y evidencias de aprendizaje específicas 
+para cada conjunto de grados: [1, 2, 3]
+Los 4 Componentes Curriculares Obligatorios
+Cualquier currículo de bachillerato en el país debe estructurar sus clases alrededor de estos 
+cuatro ejes, reemplazando la función organizadora de los DBA: [1, 2]
+1. Naturaleza y evolución de la tecnología: Comprensión de los conceptos 
+fundamentales, la historia, los artefactos, los sistemas tecnológicos y su desarrollo 
+histórico. [1, 2]
+2. Apropiación y uso de la tecnología: La ejecución práctica, el uso correcto, seguro y 
+eficiente de las herramientas de software, hardware y diferentes sistemas 
+informáticos. [1, 2]
+3. Solución de problemas con tecnología: El diseño, la planeación, la lógica de 
+programación, el pensamiento computacional y la manufactura de estrategias para 
+resolver necesidades del entorno. [1, 2]
+4. Tecnología y sociedad: El análisis crítico de los impactos ambientales, la ética en 
+entornos digitales (ciberseguridad), la brecha digital y la sostenibilidad. [1, 2]
+Temas y Competencias por Grados en el Bachillerato
+Los colegios distribuyen estas metas mediante las siguientes competencias clave 
+recomendadas por el MEN: [1]
+Básica Secundaria (Grados 6° a 9°)
+• Enfoque: Transición del uso instrumental al análisis de sistemas y lógica básica.
+• Competencias esperadas:
+o 6° y 7°: Identificar fuentes de energía, relacionar transformaciones 
+tecnológicas a lo largo de la historia, usar herramientas ofimáticas avanzadas 
+(procesadores de texto y hojas de cálculo para organizar datos) y crear 
+diseños básicos usando planos o maquetas.
+o 8° y 9°: Analizar el funcionamiento de sistemas complejos (eléctricos, 
+mecánicos, hidráulicos), comprender los conceptos fundamentales de los 
+algoritmos y la programación en bloques (por ejemplo, con Scratch o 
+
+=== PAGINA PDF 2 ===
+MakeCode), y evaluar las causas y consecuencias de la basura electrónica y 
+la contaminación tecnológica.
+Educación Media (Grados 10° y 11°)
+• Enfoque: Especialización, desarrollo de proyectos y pensamiento crítico tecnológico.
+• Competencias esperadas:
+o Diseñar y ejecutar proyectos tecnológicos escolares (usando metodologías 
+como STEAM o Design Thinking) orientados a resolver problemas reales de su 
+comunidad.
+o Comprender el uso ético, legal y seguro de los datos personales en la web, la 
+Inteligencia Artificial (IA), los macrodatos y los fundamentos de la 
+ciberseguridad en la vida cotidiana.
+o Desarrollar pensamiento computacional avanzado mediante lenguajes de 
+programación en texto o el desarrollo de prototipos electrónicos (robótica 
+básica con Arduino o micro:bit). [1, 2, 3]
+Si necesitas actualizar el plan de estudios de tu institución, indícame: ¿Estás buscando la 
+estructura de competencias para un grado específico o necesitas ejemplos de estrategias 
+didácticas (como robótica o programación) para implementar en el aula?
