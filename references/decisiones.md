@@ -9,7 +9,7 @@ Registradas el 16 de octubre de 2026. Estas son preferencias de trabajo, no hech
 - Períodos: preguntar cuáles si no se indican; cualquier combinación o los cuatro. No diligenciar otros por defecto.
 - Conservar lo correcto de períodos existentes y completar lo faltante.
 - Evaluación de ajustes: nueva planeación en blanco. Conservar seguimientos del mismo año. Al actualizar a un año siguiente, no trasladar los resultados históricos como si fueran nuevos; conservar archivo fuente y limpiar seguimiento en la copia del nuevo año.
-- Usar las opciones de desplegables y añadir texto personalizado cuando corresponda. Está autorizado agregar una opción neutral conservando todas las originales y la interactividad.
+- Usar las opciones de desplegables y añadir texto personalizado cuando corresponda. En barreras no usar opción neutral (ver «Preferencias de diligenciamiento» en SKILL.md, 2026-10-16). En otros desplegables sin opción pertinente puede agregarse una neutral conservando las originales.
 - Personalizar Metodología, Comunicación, Recursos, Espacio y Tiempo por asignatura, objetivos y funcionamiento observado. El diagnóstico aportado es un dato contextual, no una descripción suficiente de habilidades.
 - Identidad: normalmente se recibe un documento del estudiante. Avisar si aparece otro nombre de estudiante y aclarar el titular antes de basarse en ese contenido. No sustituir automáticamente todas las apariciones de otros nombres.
 - Insumos: se puede realizar entrevista o pedir documento con datos. No inventar antecedentes, diagnósticos, medicamentos, recursos disponibles ni compromisos aceptados.
@@ -50,4 +50,13 @@ Si el usuario solo aporta diagnóstico y nombre, realizar entrevista pedagógica
 
 La plantilla aportada tiene inicialmente filas académicas para Matemáticas y Lengua Castellana, más Otras; incluye anexos 1, 2 y 3. Contiene textos repetidos, encabezados de primer trimestre/primer período y frases predefinidas que no son evidencia sobre el estudiante. Conservar el original; corregir solo en la copia las inconsistencias que afecten la solicitud y explicar cambios relevantes.
 
-Los desplegables familiares y docentes contienen afirmaciones negativas. No elegirlas sin evidencia. Opción neutral sugerida: «Información insuficiente para determinar esta barrera». Para apoyos de salud sin información: «No se cuenta con información para seleccionar una recomendación específica». No confundir desconocido con ausencia de barrera o ausencia de tratamiento.
+Los desplegables familiares y docentes contienen afirmaciones negativas. Actualización 2026-10-16: el usuario indicó que dejar barreras vacías o neutrales genera llamados de atención; elegir la opción que menos comprometa a los docentes según SKILL.md (docente: «Creer que ciertos estudiantes…»; familia: procesos educativos; físicas: falta de apoyo, recursos y materiales). Para apoyos de salud sin información: «No se cuenta con información para seleccionar una recomendación específica». No confundir desconocido con ausencia de barrera o ausencia de tratamiento.
+
+## Preferencias añadidas el 2026-10-16
+
+- Barreras: siempre una opción de la lista, la menos comprometedora para los docentes. Nunca neutral ni vacía.
+- Persona que diligencia: el director de grado del Anexo 2, salvo indicación.
+- Anexos 1 y 3: completar con datos del propio documento; fecha por defecto, la de elaboración del Anexo 2.
+- Actividades en casa: sencillas, opción de desplegable más frecuencia, detalle en OBSERVACIÓN.
+- Firmas: no se hacen.
+- «Todas las áreas» en 8.° y 9.°: once áreas por cuatro períodos en el Anexo 2, sin matrices duplicadas.
